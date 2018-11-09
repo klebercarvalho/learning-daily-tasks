@@ -5,6 +5,8 @@
 - Back-End
   - Node.js
   - ES6
+  - Typescript
+  - Babel
 
 - Database
   - SQL
