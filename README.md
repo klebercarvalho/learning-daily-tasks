@@ -4,6 +4,7 @@
 
 - Back-End
   - Node.js
+  - ES6
 
 - Database
   - SQL
