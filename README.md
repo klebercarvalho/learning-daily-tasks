@@ -8,11 +8,11 @@
   - Typescript
   - Babel
   
- - Node.js
+- Node.js
   - NPM
   - Expresss
   
- - Java
+- Java
   - Syntaxe
   - Object Oriented
   - Maven
@@ -28,7 +28,7 @@
 - PHP
   - Syntaxe
   - Object Oriented
-   - Composer
+  - Composer
 
 - Database
   - SQL
