@@ -2,14 +2,39 @@
   - CSS
   - React
 
-- Back-End
+- Javascript
   - Node.js
   - ES6
   - Typescript
   - Babel
+  
+ - Node.js
+  - NPM
+  - Expresss
+  
+ - Java
+  - Syntaxe
+  - Object Oriented
+  - Maven
+  - JDBC & Relational Data Base
+ 
+- Python
+  - Syntaxe
+  - Object Oriented
+  - virtualenv
+  - pip
+  - Pipenv
+  
+- PHP
+  - Syntaxe
+  - Object Oriented
+   - Composer
 
 - Database
   - SQL
+  - MySQL
+  - Mongo
+  - Redis
 
 - DevOps
   - Docker
