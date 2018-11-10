@@ -60,5 +60,7 @@
     - [ECS, Docker](https://cursos.alura.com.br/course/docker-na-amazon-ecs)
   - Amazon Cloud Front & Route53
     - [Cloud Front, Route53](https://cursos.alura.com.br/course/amazon-cloudfront-route53)
+  - Amazon Code Deploy
+    - [Code Deploy](https://cursos.alura.com.br/course/deploy-continuo-aws-code-deploy)
   
     
