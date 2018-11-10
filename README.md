@@ -51,7 +51,7 @@
   - AWS S3
     - [AWS re: Invent ARC 302: AWS Cloud Design Patterns (CDP)](https://www.youtube.com/watch?v=kgPSpsrgWdA)
   - AWS EC2
-    - [Spring S3, EC2, Redis, ElasticCache, Load Balancer] (https://cursos.alura.com.br/course/spring-amazon/)
+    - [Spring S3, EC2, Redis, ElasticCache, Load Balancer](https://cursos.alura.com.br/course/spring-amazon/)
   - AWS Lambda
     -
   - AWS Amazon Elastic Beanstalk
