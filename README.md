@@ -44,6 +44,17 @@
   - Microservices
   
 - Cloud
-  - AWS
+  - AWS Architecture
     - [AWS re: Invent ARC 302: AWS Cloud Design Patterns (CDP)](https://www.youtube.com/watch?v=kgPSpsrgWdA)
     - [Architecting for The Cloud: Best Practices - Amazon AWS](https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
+    - [AWS Architecture Center](https://aws.amazon.com/architecture/)
+  - AWS S3
+    - [AWS re: Invent ARC 302: AWS Cloud Design Patterns (CDP)](https://www.youtube.com/watch?v=kgPSpsrgWdA)
+  - AWS EC2
+    - [Spring S3, EC2, Redis, ElasticCache, Load Balancer] (https://cursos.alura.com.br/course/spring-amazon/)
+  - AWS Lambda
+    -
+  - AWS Amazon Elastic Beanstalk
+    -
+  
+    
