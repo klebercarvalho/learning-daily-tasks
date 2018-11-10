@@ -53,8 +53,10 @@
   - AWS EC2
     - [Spring S3, EC2, Redis, ElasticCache, Load Balancer](https://cursos.alura.com.br/course/spring-amazon/)
   - AWS Lambda
-    -
+    - [Servless, Lambda](https://cursos.alura.com.br/course/serverless-aws-lambda)
   - AWS Amazon Elastic Beanstalk
-    -
+    - [Elastic Beanstalk, Docker](https://cursos.alura.com.br/course/elastic-beanstalk/)
+  - Amazon Elastic Container Service
+    - [ECS, Docker](https://cursos.alura.com.br/course/docker-na-amazon-ecs)
   
     
