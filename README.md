@@ -12,6 +12,7 @@
   - Babel
   
 - Back-end
+  - MVC
   - CRUD
   - REST API
   - JWT
