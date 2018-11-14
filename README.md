@@ -16,6 +16,7 @@
   - REST API
   - JWT
   - OAuth
+  - Queue
   
 - Node.js
   - NPM
