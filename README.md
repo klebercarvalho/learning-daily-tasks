@@ -1,6 +1,7 @@
 - Front-End
   - HTML
   - CSS
+   - SAAS
   - Bootstrap
   - React
 
@@ -9,6 +10,12 @@
   - ES6
   - Typescript
   - Babel
+  
+- Back-end
+  - CRUD
+  - REST API
+  - JWT
+  - OAuth
   
 - Node.js
   - NPM
