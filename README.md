@@ -18,6 +18,7 @@
   - JWT
   - OAuth
   - Queue
+  - Unit Testing
   
 - Node.js
   - NPM
