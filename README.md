@@ -42,10 +42,13 @@
   - Object Oriented
   - Composer
 
-- Database
+- SQL Database
   - SQL
   - MySQL
+  
+- NoSQL Database
   - Mongo
+  - Couch
   - Redis
 
 - DevOps
