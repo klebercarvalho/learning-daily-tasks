@@ -1,16 +1,16 @@
-# Front-End
-  ## HTML
-  ## CSS
-  ## SAAS
-  ## Bootstrap
-  ## React
+- Front-End
+   - HTML
+   - CSS
+   - SAAS
+   - Bootstrap
+   - React
 
 - Javascript
   - Node.js
   - ES6
     - Promise
+      - [ ] Mercury
   - Typescript
-  - Babel
   
 - Back-end
   - MVC
