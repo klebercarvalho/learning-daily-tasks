@@ -2,14 +2,19 @@
    - HTML
    - CSS
    - SAAS
+   - BEM
    - Bootstrap
    - React
+   - Redux
+   - React Redux
+   - Saga
+   - Duck
 
 - Javascript
   - Node.js
   - ES6
     - Promise
-      - [ ] Mercury
+      - [ ] Xxxxx
   - Typescript
   
 - Back-end
