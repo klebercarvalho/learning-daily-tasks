@@ -10,7 +10,11 @@
    - Bootstrap
    - React
    - Redux
+      - [Website](https://redux.js.org/)
+      - [Getting started](https://redux.js.org/introduction/getting-started)
    - React Redux
+      - [Website](https://react-redux.js.org/)
+      - [Getting started](https://react-redux.js.org/introduction/quick-start)
    - Saga
    - Duck
 
