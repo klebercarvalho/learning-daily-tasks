@@ -9,14 +9,18 @@
       - [Website](http://getbem.com/)
    - Bootstrap
    - React
+      - [Website](https://reactjs.org/)
+      - [Getting started](https://reactjs.org/docs/getting-started.html)
    - Redux
       - [Website](https://redux.js.org/)
       - [Getting started](https://redux.js.org/introduction/getting-started)
    - React Redux
       - [Website](https://react-redux.js.org/)
       - [Getting started](https://react-redux.js.org/introduction/quick-start)
-   - Saga
-   - Duck
+   - Redux-Saga
+       - [Website](https://redux-saga.js.org/)
+   - Duck Pattern
+       - [Website](https://github.com/erikras/ducks-modular-redux)
 
 - Javascript
   - Node.js
