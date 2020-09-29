@@ -8,6 +8,7 @@
 - Javascript
   - Node.js
   - ES6
+    - Promise
   - Typescript
   - Babel
   
