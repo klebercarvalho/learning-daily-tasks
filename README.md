@@ -102,6 +102,11 @@
   
   - Cloud - GCP
     - Firebase
+   
+   - Content Creator
+      - Youtube
+         - [How I Went From 0 to 70k Subscribers on YouTube in 1 Year – And How Much Money I Made](https://www.freecodecamp.org/news/how-to-grow-your-youtube-channel/)
+         - [I Finished the Entire freeCodeCamp Curriculum in 1 Month](https://www.freecodecamp.org/news/i-completed-the-entire-freecodecamp-curriculum-in-a-month-while-recording-everything/)
   
   
     
