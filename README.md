@@ -14,7 +14,7 @@
    - Redux
       - [Website](https://redux.js.org/)
       - [Getting started](https://redux.js.org/introduction/getting-started)
-      - [ ] [RS OF Redux](https://app.rocketseat.com.br/node/redux)
+      - [ ] [RS OS Redux](https://app.rocketseat.com.br/node/redux)
    - React Redux
       - [Website](https://react-redux.js.org/)
       - [Getting started](https://react-redux.js.org/introduction/quick-start)
